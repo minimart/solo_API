@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+}
+h1 {
+  text-align: center;
+  width: 66%;
+  margin: 0 auto;
+  font-family: 'Cabin Sketch', cursive;
+}
+h3 {
+  text-align: center;
+  width: 66%;
+  margin: 0 auto;
+  font-family: 'Cabin Sketch', cursive;
+}
+div {
+  width: 66%;
+  /*backgroud-color: grey;*/
+  text-align: center;
+  margin: 0 auto;
+}
+html {
+  background-color: black;
+  background-image: url("moviebackground.jpg");
+  background-size: 100%;
+  background-position: absolute;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: crimson;
+  text-shadow: 1px 1px lightsteelblue;
+}
+img {
+  border-radius: 15px;
+}
